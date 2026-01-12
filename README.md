@@ -4,7 +4,7 @@
 - I already know Winstar and have met Alex and Humraj.
   
 
-3. What is one Computer Graphics-related skill or interest each of them has?
+2. What is one Computer Graphics-related skill or interest each of them has?
 - Winstar wants to learn simulating high-performance computing stuff.
 - Alex is interested in video games and wanted to see if this path is for him.
 - Humraj wants to imporve his programming skills.
