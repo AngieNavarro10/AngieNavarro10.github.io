@@ -12,5 +12,3 @@
 
 3. If you could explore any magical realm in the world, where would it be and why?
 - I would love to go to Greece, I want to see the beautiful architecture.
-  
-
